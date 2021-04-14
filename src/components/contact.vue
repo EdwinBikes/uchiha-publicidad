@@ -8,7 +8,7 @@
                 Por intermedio de nuestro correo electónico podrá de manera directa
                 realizar su pedido de conformidad con la categorías que tenemos a su
                 disposición.
-                De igual forma podrá comunicarse con Solutions Premium S.A.S. vía
+                De igual forma podrá comunicarse con Grupo DESCA S.A.S. vía
                 telefónica, correo electrónico, redes sociales.
 
                 Podrá solicitar atención personalizada por parte de nuestra fuerza de
