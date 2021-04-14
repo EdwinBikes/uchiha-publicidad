@@ -16,7 +16,7 @@
                 <a href="mailto:grupodesca@gmail.com">GrupoDesca@gmail.com</a></div>
             <div class="footer__container--network__icons">
                 <img class="img_icons" :src="require('../assets/images/phone2.png')" alt="">
-                <a href="tel:+573015559202">+57 301 555 92 02</a></div>
+                <a href="tel:+573114442194">+57 311 444 21 94</a></div>
             <div class="footer__container--network__icons">
                 <img class="img_icons" :src="require('../assets/images/globo.png')" alt="">
                 <a href="http://grupodesca.com">www.grupodesca.com</a></div>
