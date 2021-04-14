@@ -133,7 +133,9 @@ export default {
     display: flex;
     justify-content: flex-end;
     align-items: flex-start;
+    
   }
+
   .navbar__container--img{
     font-size: 12px;
 }
@@ -153,10 +155,11 @@ export default {
   }
   .mobil__main img{
     height: 60px;
-    padding-top: 10px;
-    padding-right: 10px;
+    padding: 10px;
     position: fixed;
     z-index: 11;
+    background-color:rgba(0, 13, 50,0.5);
+    border-radius:20px;
   }
 }
 @media (max-width: 380px) {
