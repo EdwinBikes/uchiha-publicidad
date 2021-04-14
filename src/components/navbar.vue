@@ -6,11 +6,11 @@
             <p>Grupo</p>&nbsp;<h3>DESCA</h3></div>
         <div class="navbar__container--main">
             <div class="mobil__main">
-                <!-- <img :src="require('../assets/images/menu.png')" @click="showMenu = true" alt=""> -->
+                <img :src="require('../assets/images/menu.png')" @click="showMenu = true" alt="">
             </div>
             <div class="mobil__whatsapp">
                 <a href="https://api.whatsapp.com/send?phone=+573015559202">
-                <!-- <img :src="require('../assets/images/icons8-whatsapp-480 (2).png')" alt=""> -->
+                <img :src="require('../assets/images/icons8-whatsapp-480 (2).png')" alt="">
                 </a>
             </div>
             <div class="navbar__container--main__links">

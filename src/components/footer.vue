@@ -12,13 +12,13 @@
         </div>
         <div class="footer__container--network">
             <div class="footer__container--network__icons">
-                <!-- <img class="img_icons" :src="require('../assets/images/mail.png')" alt=""> -->
+                <img class="img_icons" :src="require('../assets/images/mail.png')" alt="">
                 <a href="mailto:grupodesca@gmail.com">GrupoDesca@gmail.com</a></div>
             <div class="footer__container--network__icons">
-                <!-- <img class="img_icons" :src="require('../assets/images/phone2.png')" alt=""> -->
+                <img class="img_icons" :src="require('../assets/images/phone2.png')" alt="">
                 <a href="tel:+573015559202">+57 301 555 92 02</a></div>
             <div class="footer__container--network__icons">
-                <!-- <img class="img_icons" :src="require('../assets/images/globo.png')" alt=""> -->
+                <img class="img_icons" :src="require('../assets/images/globo.png')" alt="">
                 <a href="http://grupodesca.com">www.grupodesca.com</a></div>
         </div>
         <div class="credit"><a href="http://www.regniek.dev" target="blank_">Powered by Regniek</a> </div>
