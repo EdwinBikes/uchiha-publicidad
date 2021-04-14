@@ -9,7 +9,7 @@
                 <img :src="require('../assets/images/menu.png')" @click="showMenu = true" alt="">
             </div>
             <div class="mobil__whatsapp">
-                <a href="https://api.whatsapp.com/send?phone=+573015559202">
+                <a href="https://api.whatsapp.com/send?phone=+573114442194">
                 <img :src="require('../assets/images/icons8-whatsapp-480 (2).png')" alt="">
                 </a>
             </div>
