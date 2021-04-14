@@ -62,7 +62,7 @@ export default {
                     text =`Hola soy ${name} ${last} quisiera averiguar sobre sus servicios acerca de ${option} mi numero de telefono es ${phone}`
                 }
                 const asunto =`Conocer sus servicios`      
-                window.location.href = `mailto:solutionspremium@hotmail.com&subject=${asunto}&body=${text}`;
+                window.location.href = `mailto:grupodesca@gmail.com&subject=${asunto}&body=${text}`;
             }
             
         },
