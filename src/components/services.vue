@@ -14,11 +14,12 @@
                     Estos son algunos de los servicios profesionales que
                     ofrecemos: </p>
                 <ul>
-                    <li>Importación e intermediación de repuestos</li>
-                    <li>Desarrollo y comercialización de tecnología</li>
-                    <li>Compra y venta de piezas de necesidades industriales</li>
-                    <li>Asesoría y desarrollo de programas de capacitación</li>
-                    <li>Venta de elementos empresariales</li>
+                    <li>Diseño, implementación y mantenimiento de SG-SST, calidad y medio ambiente.</li>
+                    <li>Suministro de personal capacitado en SST</li>
+                    <li>Asesoría y capacitación SG – SST</li>
+                    <li>Comercialización de elementos de protección personal</li>
+                    <li>Diseño de aplicaciones web</li>
+                    <li>Servicio de obras civiles</li>
                 </ul>
                 </div>
                 

@@ -13,14 +13,14 @@
                 </div>
                 <div class="container__landing--text__p">
                     <p>
-                        Solutions Premium S.A.S. Es una empresa que da soluciones a las industrias
-                        y otros sectores, suministrando productos y servicios de calidad, con precios
-                        competitivos, excelente servicio al cliente y un gran equipo de trabajo
-                        idóneo para suplir sus necesidades.
-                        Nuestro objetivo primordial esta en garantizar un servicio de manera
-                        eficiente y oportuna al alcance de empresas a nivel nacional, atendiendo
-                        sus necesidades de tal manera que nos permita suplir las exigencias del
-                        mercado.
+                        GRUPO DESCA S.A.S., somos una empresa
+                        que presta servicios de asesoría y consultoría
+                        para las empresas en el diseño e implementación
+                        del Sistema de Gestión de Seguridad y Salud
+                        en el Trabajo, realizamos acompañamiento
+                        con profesionales con conocimiento y
+                        experiencia en prevención y control
+                        de riesgos laborales.
                     </p>
                 </div>
             </div>
