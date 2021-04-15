@@ -4,11 +4,7 @@
             <div class="container__contact--client">
              <h1>CONTÁCTENOS</h1>
              <p>
-                Somo un equipo de profesionales enfocado a cambiar el curso de la seguridad y salud en trabajo,
-                diseños, propuestas e implementaciones estan enfocadas para que nuestros clientes vivan la seguridad
-                en sus equipos de trabajo de una manera eficiente e innovadora, comuniquece atrabes de nuestros medios 
-                de información y con gusto siempre estara un asesor dispuesto a atenderlo Grupo DESCA, esta para hacer
-                de su día a día en el trabajo un lugar seguro, y recuerde que alguien seimpre te espera trabaja con seguridad.
+                Somos un equipo de profesionales enfocado a cambiar el curso de la seguridad y salud en trabajo, diseños, propuestas e implementaciones están enfocadas para que nuestros clientes vivan la seguridad en sus equipos de trabajo de una manera eficiente e innovadora, comuníquese a través de nuestros medios de información y con gusto siempre estará un asesor dispuesto a atenderlo Grupo DESCA, esta para hacer de su día a día en el trabajo un lugar seguro, y recuerde que alguien siempre te espera trabaja con seguridad.
              </p>
             </div>
             <div class="container__contact--info">
