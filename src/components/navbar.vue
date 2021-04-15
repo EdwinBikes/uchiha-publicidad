@@ -1,9 +1,8 @@
 <template>
     <div class="navbar__container">
         <div class="navbar__container--img" @click="goToHome">
-            <!-- <img  :src="require('../assets/images/logosolutionsolo.png')" alt="logo"> -->
-            <img  src="http://grupodesca.com/src/assets/images/logo.jpeg" alt="logo">
-            <p>Grupo</p>&nbsp;<h3>DESCA</h3></div>
+            <img  :src="require('../assets/logo.png')" alt="logo">
+            <p>Grupo</p><h3>&nbsp;DESCA</h3></div>
         <div class="navbar__container--main">
             <div class="mobil__main">
                 <img :src="require('../assets/images/menu.png')" @click="showMenu = true" alt="">
@@ -15,14 +14,12 @@
             </div>
             <div class="navbar__container--main__links">
                 <button  class="main__link" @click="goToServices">Servicios</button>
-                <button class="main__link" @click="goToProducts">Productos</button>
                 <button class="main__link" @click="goToContact">Contactanos</button>
             </div>
         </div>
         <div v-if="showMenu" class="other__menu">
                 <button  class="main__link" @click="goToHome">Inicio</button>
                 <button  class="main__link" @click="goToServices">Servicios</button>
-                <button class="main__link" @click="goToProducts">Productos</button>
                 <button class="main__link" @click="goToContact">Contactanos</button>
         </div>
     </div>
@@ -74,7 +71,7 @@ export default {
     position: fixed;
     height: 100vh;
     width: 100vw;
-    background-color:rgba(0, 13, 50,1);
+    background-color:rgba(40, 40, 42,0.9);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -92,10 +89,13 @@ export default {
 }
 
 .navbar__container{
+    position: fixed;
+    width: 100vw;
+    top:0;
     display: grid;
     grid-template-columns: 4fr 2fr;
     height: 90px;
-    background-color:rgba(0, 13, 50,1);
+    background-color:rgba(40, 40, 42,0.9);
 }
 .navbar__container--img{
     display: flex;
@@ -112,18 +112,19 @@ export default {
     color: white;
     padding-top: 36px;
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-end;
     align-items: center;
     
 }
 .navbar__container--main__links button{
     background: none;
-        color: inherit;
-        border: none;
-        padding: 0;
-        font: inherit;
-        cursor: pointer;
-        outline: inherit;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+    padding-right: 40px;
 }
 @media (max-width: 850px) {
   .navbar__container--main__links{
@@ -158,7 +159,7 @@ export default {
     padding: 10px;
     position: fixed;
     z-index: 11;
-    background-color:rgba(0, 13, 50,0.5);
+    
     border-radius:20px;
   }
 }

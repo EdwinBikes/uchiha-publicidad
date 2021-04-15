@@ -5,16 +5,7 @@
                 <h1>LINEA DE PRODUCTOS</h1>
             </div>
             <div class="container__products--categories">
-                <div class="container__products--categories__epp item">
-                    <!-- <img class="all__img" :src="require('../assets/images/epps.jpg')" alt=""> -->
-                    <h2>Seguridad y dotación industrial</h2>
-                    <ul>
-                        <li>Ropa industrial</li>
-                        <li>Botas en cuera</li>
-                        <li>Protección auditiva,facila y manual</li>
-                        <li>Señalización personal e industrial</li>
-                    </ul>
-                </div>
+                
                 <div class="container__products--categories__papeleria item">
                     <!-- <img class="all__img" :src="require('../assets/images/papeleria.jpg')" alt=""> -->
                     <h2>Papeleria</h2>
@@ -32,6 +23,16 @@
                         <li>Capacitación y entrenamiento</li>
                         <li>Estructura de proyectos</li>
                         <li>Coaching</li>
+                    </ul>
+                </div>
+                <div class="container__products--categories__epp item">
+                    <!-- <img class="all__img" :src="require('../assets/images/epps.jpg')" alt=""> -->
+                    <h2>Seguridad y dotación industrial</h2>
+                    <ul>
+                        <li>Ropa industrial</li>
+                        <li>Botas en cuero</li>
+                        <li>Protección auditiva,facila y manual</li>
+                        <li>Señalización personal e industrial</li>
                     </ul>
                 </div>
                 <div class="container__products--categories__importar item">

@@ -2,7 +2,7 @@
     <div class="container__body">
         <div class="container__service">
             <div class="container__service--img">
-                <!-- <img :src="require('../assets/images/services.jpg')"  alt=""> -->
+                <img src="https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg"  alt="">
             </div>
             <div class="container__service--info">
                 <h1>NUESTROS SERVICIOS</h1>
@@ -18,7 +18,7 @@
                     <li>Suministro de personal capacitado en SST</li>
                     <li>Asesoría y capacitación SG – SST</li>
                     <li>Comercialización de elementos de protección personal</li>
-                    <li>Diseño de aplicaciones web</li>
+                    <li>Soporte en paginas web</li>
                     <li>Servicio de obras civiles</li>
                 </ul>
                 </div>
@@ -29,8 +29,10 @@
 </template>
 <style scoped>
 .container__body{
+    margin-top: 90px;
     width: 100%;
     height: 80vh;
+    font-size: 25px;
 }
 .container__service{
     display: grid;

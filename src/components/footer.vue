@@ -27,7 +27,7 @@
 
 <style scoped>
 .footer__container{
-    background-color:rgba(0, 13, 50,1);;
+    background  : linear-gradient(0deg,rgba(0,0,0,1) 0%, rgba(173,23,16,0.9) 100%);
     height: 200px;
     display:grid;
     grid-template-columns: repeat(2,1fr);

@@ -3,15 +3,7 @@
         <div class="container__landing">
             <div class="container__landing--title">
                 <div class="container__landing--title__contain">
-                    <h2>¿QUIÉNES SOMOS?</h2>
-                </div>
-                
-            </div>
-            <div class="container__landing--text">
-                <div class="container__landing--text__image">
-                    <!-- <img :src="require('../assets/images/logobody.png')" alt=""> -->
-                </div>
-                <div class="container__landing--text__p">
+                    <h2>Grupo DESCA</h2>
                     <p>
                         GRUPO DESCA S.A.S., somos una empresa
                         que presta servicios de asesoría y consultoría
@@ -23,33 +15,53 @@
                         de riesgos laborales.
                     </p>
                 </div>
+                
             </div>
         </div>
+        <Mision />
     </div>
 </template>
 <style scoped>
 .container__body{
+    margin-top: 90px;
     width: 100%;
     height: 100%;
 }
 .container__landing{
     display: grid;
-    grid-template-rows: repeat(2,1fr);
+    grid-template-rows: 1fr;
 }
 .container__landing--title{
-    /* background-image: url('https://images.pexels.com/photos/2760242/pexels-photo-2760242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940'); */
+    background-image: url('https://cdn.pixabay.com/photo/2017/08/03/21/37/construction-2578410_960_720.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    width: 100vw;
+    height: 700px;
    
 }
 .container__landing--title__contain{
-    height: 50px;
+    height: 200px;
     margin-top: 30vh;
-    background-color: rgba(0, 13, 50,0.7);
+    background-color: rgba(40, 40, 42,0.7);
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;    
+    flex-wrap: wrap;
     color:white;
+    font-size: 20px;
+}
+.container__landing--title__contain h2{
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    padding: 0;
+    margin: 0;
+}
+.container__landing--title__contain p{
+    width: 50%;
+    text-align: justify;
+    padding: 0;
+    margin: 0;
 }
 .container__landing--text{
     display: grid;
@@ -75,10 +87,14 @@
 
     }
     .container__body{
-        height: 1200px;
+        height: 1650px;
     }
     .container__landing--title{
-        height: 500px;
+        height: 800px;
+    }
+    .container__landing--title__contain{
+        height: 550px;
+        background-color: rgba(40, 40, 42,0.8);
     }
     .container__landing--text__image img{
         width: 100%;

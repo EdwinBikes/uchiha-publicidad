@@ -2,20 +2,17 @@
     <div class="container__body">
         <div class="container__contact">
             <div class="container__contact--client">
-             <h1>ATENCIÓN AL CLIENTE</h1>
-             <p>Nuestro portafolio de servicios está diseñado para ayudarle a
-                identificar y cubrir las necesidades de su oficina, empresa o industria.
-                Por intermedio de nuestro correo electónico podrá de manera directa
-                realizar su pedido de conformidad con la categorías que tenemos a su
-                disposición.
-                De igual forma podrá comunicarse con Grupo DESCA S.A.S. vía
-                telefónica, correo electrónico, redes sociales.
-
-                Podrá solicitar atención personalizada por parte de nuestra fuerza de
-                ventas en las instalaciones de su empresa.</p>
+             <h1>CONTÁCTENOS</h1>
+             <p>
+                Somo un equipo de profesionales enfocado a cambiar el curso de la seguridad y salud en trabajo,
+                diseños, propuestas e implementaciones estan enfocadas para que nuestros clientes vivan la seguridad
+                en sus equipos de trabajo de una manera eficiente e innovadora, comuniquece atrabes de nuestros medios 
+                de información y con gusto siempre estara un asesor dispuesto a atenderlo Grupo DESCA, esta para hacer
+                de su día a día en el trabajo un lugar seguro, y recuerde que alguien seimpre te espera trabaja con seguridad.
+             </p>
             </div>
             <div class="container__contact--info">
-                <h2>CONTÁCTENOS</h2>
+                <h2>Escribenos para mayor información</h2>
                 <p>¿Quieres hacernos alguna pregunta? Ponte en contacto con nosotros y te responderemos en el menor tiempo posible. A tu disposición ponemos a todo un equipo de profesionales dispuestos a aportar soluciones a tus problemas.</p>
                 <div class="container__contact--info__form">
                     <input type="text" name="first_name" id="name" placeholder="Nombre">
@@ -29,7 +26,7 @@
             <div class="container__contact--text">
                 <div class="container__contact--text__light">
                     <p>
-                        “El éxito no se logra sólo con cualidades especiales. Es sobre todo un trabajo de constancia, de método y de organización”. J.P. Sergent
+                        “nada es tan importante, ni tan urgente, que no pueda ser hecho con seguridad”. Anonimo
                     </p>
                 </div>
                 
@@ -77,6 +74,7 @@ export default {
 </script>
 <style scoped>
 .container__body{
+    margin-top: 90px;
     width: 100%;
     height: 100%;
 }
@@ -86,12 +84,13 @@ export default {
     height: 100%;
 }
 .container__contact--text{
-     /* background-image: url('../assets/images/contactenos.jpg'); */
+     background-image: url('https://cdn.pixabay.com/photo/2016/09/01/15/19/stevedore-1636392_960_720.jpg');
      background-size:cover;
+     background-position: center;
      height: 72.5vh;
 }
 .container__contact--text__light{
-    background-color:rgba(0, 13, 50,0.7);
+    background-color:rgba(40, 40, 42,0.7);
     font-size: 20px;
     width: 100%;
     color:white;
@@ -136,7 +135,7 @@ export default {
     outline: none;
     width: 100%;
     border:0;
-    border-bottom:1px solid rgba(0, 13, 50,0.7);;
+    border-bottom:1px solid rgba(40, 40, 42,1);
 }
 .container__contact--info__form button{
     width: 40%;
@@ -144,7 +143,7 @@ export default {
     border-radius: 5px;
     color: white;
     font-size: 25px;
-    background-color: rgba(0, 13, 50,1);
+    background-color: rgba(40, 40, 42,1);
 }
 @media (max-width: 850px) {
    .container__contact{
