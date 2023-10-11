@@ -7,7 +7,7 @@
                     </p>
                     </div>
                     <div class="container__mision--img">
-                        <img src="https://cdn.pixabay.com/photo/2016/09/01/15/18/industrial-1636390_960_720.jpg" alt="">
+                        <img src="https://images.pexels.com/photos/6483623/pexels-photo-6483623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
                     </div>     
         </div>
 </template>

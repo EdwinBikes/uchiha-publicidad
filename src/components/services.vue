@@ -8,18 +8,11 @@
                 <h1>NUESTROS SERVICIOS</h1>
                 <div>
                     <p>
-                    Destacamos por ofrecer servicios integrales de alta
-                    calidad. Cumpliendo expectativas, generando alianzas
-                    comerciales con nuestros clientes y proveedores.
-                    Estos son algunos de los servicios profesionales que
-                    ofrecemos: </p>
+                    En Uchiha publicidad, estamos comprometidos a llevar tu presencia en línea al siguiente nivel. Somos un equipo apasionado de expertos en marketing digital, diseño web y desarrollo de aplicaciones móviles, listos para transformar tu visión en realidad. </p>
                 <ul>
-                    <li>Diseño, implementación y mantenimiento de SG-SST, calidad y medio ambiente.</li>
-                    <li>Suministro de personal capacitado en SST</li>
-                    <li>Asesoría y capacitación SG – SST</li>
-                    <li>Comercialización de elementos de protección personal</li>
-                    <li>Soporte en paginas web</li>
-                    <li>Servicio de obras civiles</li>
+                    <li>Marketing : Manejo de redes, Creación de contenido, Reels, Historias, Chats</li>
+                    <li>Plataformas: Tiktok, Instagram, Facebook, WhatsApp, Paginas Web. Snapchat</li>
+                    <li>Creación: Fotos, Videos, Videos con Drone</li>
                 </ul>
                 </div>
                 

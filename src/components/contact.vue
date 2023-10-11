@@ -4,7 +4,7 @@
             <div class="container__contact--client">
              <h1>CONTÁCTENOS</h1>
              <p>
-                Somos un equipo de profesionales enfocado a cambiar el curso de la seguridad y salud en trabajo, diseños, propuestas e implementaciones están enfocadas para que nuestros clientes vivan la seguridad en sus equipos de trabajo de una manera eficiente e innovadora, comuníquese a través de nuestros medios de información y con gusto siempre estará un asesor dispuesto a atenderlo Grupo DESCA, esta para hacer de su día a día en el trabajo un lugar seguro, y recuerde que alguien siempre te espera trabaja con seguridad.
+                Nuestro equipo está formado por profesionales altamente calificados y apasionados por el marketing digital y la tecnología. Desde estrategas creativos hasta expertos en seguridad cibernética y analistas de datos, cada miembro de nuestro equipo aporta su experiencia única para ofrecer soluciones de vanguardia. Trabajamos en conjunto, aprovechando la diversidad de nuestras habilidades para brindar resultados excepcionales a nuestros clientes.
              </p>
             </div>
             <div class="container__contact--info">
@@ -22,7 +22,7 @@
             <div class="container__contact--text">
                 <div class="container__contact--text__light">
                     <p>
-                        “nada es tan importante, ni tan urgente, que no pueda ser hecho con seguridad”. Anonimo
+                        “El secreto del éxito en publicidad es decir la verdad, pero de manera que resulte interesante.”. Leo Burnett
                     </p>
                 </div>
                 
@@ -55,7 +55,7 @@ export default {
                     text =`Hola soy ${name} ${last} quisiera averiguar sobre sus servicios acerca de ${option} mi numero de telefono es ${phone}`
                 }
                 const asunto =`Conocer sus servicios`      
-                window.location.href = `mailto:grupodesca@gmail.com&subject=${asunto}&body=${text}`;
+                window.location.href = `mailto:uchihapublicidad@gmail.com&subject=${asunto}&body=${text}`;
             }
             
         },
@@ -80,7 +80,7 @@ export default {
     height: 100%;
 }
 .container__contact--text{
-     background-image: url('https://cdn.pixabay.com/photo/2016/09/01/15/19/stevedore-1636392_960_720.jpg');
+     background-image: url('https://images.pexels.com/photos/11448038/pexels-photo-11448038.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
      background-size:cover;
      background-position: center;
      height: 72.5vh;

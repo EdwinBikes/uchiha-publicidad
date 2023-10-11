@@ -25,7 +25,7 @@
     grid-template-rows: 1fr;
 }
 .container__landing--title{
-    background-image: url('https://cdn.pixabay.com/photo/2017/08/03/21/37/construction-2578410_960_720.jpg');
+    background-image: url('https://images.pexels.com/photos/6476563/pexels-photo-6476563.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
     background-size: cover;
     background-repeat: no-repeat;
     width: 100vw;
