@@ -3,12 +3,7 @@
                     <div class="container__mision--text">  
                         <h2>Mision</h2>
                         <p>
-                        Grupo DESCA S.A.S., somos una
-                        empresa privada, dedicada a la
-                        prestación de servicios laborales
-                        orientada a promover la seguridad,
-                        el bienestar y mejorar los ambientes
-                        laborales de las empresas clientes.
+                        Nuestra misión es simple pero poderosa: colaborarte para alcanzar tus objetivos digitales con éxito. Creemos que cada cliente es único y, por lo tanto, cada solución que ofrecemos es personalizada y adaptada a tus necesidades específicas. Nos esforzamos por ser tu socio de confianza en el espacio digital, ofreciendo servicios que te permitan destacar y crecer en línea..
                     </p>
                     </div>
                     <div class="container__mision--img">
@@ -27,7 +22,7 @@
 .container__mision--text{
     height: 500px;
     width: 45vw;
-    background  : linear-gradient(0deg,rgba(0,0,0,0.9) 0%, rgba(173,23,16,0.9) 100%);
+    background: linear-gradient(to bottom, #f600fe, #c900fe, #a136ff, #5142f0, #0033d9);
     box-shadow: 4px 4px 2px 2px rgba(0,0,0,0.7);
     color:white;
     border-radius: 6px;
@@ -49,7 +44,7 @@
 .container__mision--img{
     height: 500px;
     width: 45vw;
-    background  : linear-gradient(0deg,rgba(0,0,0,0.9) 0%, rgba(173,23,16,0.9) 100%);
+    background: linear-gradient(to bottom, #f600fe, #c900fe, #a136ff, #5142f0, #0033d9);
     box-shadow: 4px 4px 2px 2px rgba(0,0,0,0.7);
     border-radius: 6px;
     display: flex;
@@ -84,3 +79,5 @@
    
 }
 </style>
+
+ 

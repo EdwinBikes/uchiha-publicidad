@@ -3,16 +3,9 @@
         <div class="container__landing">
             <div class="container__landing--title">
                 <div class="container__landing--title__contain">
-                    <h2>Grupo DESCA</h2>
+                    <h2>Uchiha publicidad</h2>
                     <p>
-                        GRUPO DESCA S.A.S., somos una empresa
-                        que presta servicios de asesoría y consultoría
-                        para las empresas en el diseño e implementación
-                        del Sistema de Gestión de Seguridad y Salud
-                        en el Trabajo, realizamos acompañamiento
-                        con profesionales con conocimiento y
-                        experiencia en prevención y control
-                        de riesgos laborales.
+                        En Uchiha Publicidad, estamos comprometidos a transformar tu visión en realidad. Somos una agencia de soluciones digitales que se especializa en impulsar tu presencia en línea y ofrecer servicios de desarrollo web y aplicaciones móviles de alta calidad. Nuestro enfoque es simple: tu éxito es nuestro éxito. Trabajamos de cerca contigo para alcanzar tus metas y objetivos en el mundo digital.
                     </p>
                 </div>
                 

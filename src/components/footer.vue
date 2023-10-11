@@ -13,21 +13,21 @@
         <div class="footer__container--network">
             <div class="footer__container--network__icons">
                 <img class="img_icons" :src="require('../assets/images/mail.png')" alt="">
-                <a href="mailto:grupodesca@gmail.com">GrupoDesca@gmail.com</a></div>
+                <a href="mailto:UchihaPublicidad@gmail.com">UchihaPublicidad@gmail.com</a></div>
             <div class="footer__container--network__icons">
                 <img class="img_icons" :src="require('../assets/images/phone2.png')" alt="">
-                <a href="tel:+573114442194">+57 311 444 21 94</a></div>
+                <a href="tel:+573057135213">+57 305 713 52 13</a></div>
             <div class="footer__container--network__icons">
                 <img class="img_icons" :src="require('../assets/images/globo.png')" alt="">
-                <a href="http://grupodesca.com">www.grupodesca.com</a></div>
+                <a href="http://uchihapublicidad.com">www.uchihapublicidad.com</a></div>
         </div>
-        <div class="credit"><a href="http://www.regniek.dev" target="blank_">Powered by Regniek</a> </div>
+        <div class="credit"><a href="http://www.juanespitia.com" target="blank_">Powered With Love 🤞</a> </div>
     </div>
 </template>
 
 <style scoped>
 .footer__container{
-    background  : linear-gradient(0deg,rgba(0,0,0,1) 0%, rgba(173,23,16,0.9) 100%);
+    background: linear-gradient(to bottom, #f600fe, #c900fe, #a136ff, #5142f0, #0033d9);
     height: 200px;
     display:grid;
     grid-template-columns: repeat(2,1fr);

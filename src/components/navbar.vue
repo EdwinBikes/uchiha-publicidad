@@ -2,13 +2,13 @@
     <div class="navbar__container">
         <div class="navbar__container--img" @click="goToHome">
             <img  :src="require('../assets/logo.png')" alt="logo">
-            <p>Grupo</p><h3>&nbsp;DESCA</h3></div>
+            <p>Uchiha</p><h3>&nbsp;Publicidad</h3></div>
         <div class="navbar__container--main">
             <div class="mobil__main">
                 <img :src="require('../assets/images/menu.png')" @click="showMenu = true" alt="">
             </div>
             <div class="mobil__whatsapp">
-                <a href="https://api.whatsapp.com/send?phone=+573114442194">
+                <a href="https://api.whatsapp.com/send?phone=+573057135213">
                 <img :src="require('../assets/images/icons8-whatsapp-480 (2).png')" alt="">
                 </a>
             </div>
