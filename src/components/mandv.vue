@@ -48,24 +48,24 @@
 .container__mision--text {
   color: white;
   flex-direction: column;
-  margin: 10px; /* Agrega márgenes internos para separar del contenedor padre */
+  margin: 30px; /* Agrega márgenes internos para separar del contenedor padre */
 }
 
 .container__mision--img {
   display: flex;
   align-items: center;
-  margin: 10px; /* Agrega márgenes internos para separar del contenedor padre */
+  margin: 30px; /* Agrega márgenes internos para separar del contenedor padre */
 }
 
 .container__mision--text h2 {
   text-align: center;
-  width: 100%;
-  font-size: 40px;
+  width: 80%;
+  font-size: 30px;
 }
 
 .container__mision--text p {
-  width: 70%;
-  text-align: justify;
+  width: 50%;
+  text-align: center;
   font-size: 25px;
 }
 
@@ -77,23 +77,25 @@
 
 @media (max-width: 850px) {
   .container__mision {
-    display: grid;
-    grid-template-columns: 1fr;
+    width: 90vw;
     height: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 20px auto;
   }
 
   .container__mision--img {
     width: 90vw;
     height: auto;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     margin: 20px auto;
   }
 
   .container__mision--text {
     width: 90vw;
-    font-size: 18px;
-    margin: 10px; /* Agrega márgenes internos para separar del contenedor padre */
+    font-size: 118px;
+    margin: 30px; /* Agrega márgenes internos para separar del contenedor padre */
   }
 
   .container__mision--text h2 {
