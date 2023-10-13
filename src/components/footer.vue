@@ -26,6 +26,18 @@
 </template>
 
 <style scoped>
+    .page-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Mínimo alto de la ventana visible */
+}
+.footer__container {
+  background: linear-gradient(to bottom, #f600fe, #c900fe, #a136ff, #5142f0, #0033d9);
+  color: white;
+  text-align: center;
+  padding: 20px;
+  align-self: flex-end; /* Alinea el footer en la parte inferior */
+}
 .footer__container{
     background: linear-gradient(to bottom, #f600fe, #c900fe, #a136ff, #5142f0, #0033d9);
     height: 200px;
@@ -45,7 +57,6 @@
     align-items: center;
     flex-wrap: wrap;
     padding-left: 60px;
-   
 }
 .img_icons{
     height: 40px;
