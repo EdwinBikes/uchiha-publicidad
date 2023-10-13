@@ -1,7 +1,7 @@
 <template>
     <div class="navbar__container">
         <div class="navbar__container--img" @click="goToHome">
-            <img  :src="require('../assets/logo.png')" alt="logo">
+            <img  :src="require('../assets/logoo.png')" alt="logo">
             <p>Uchiha</p><h3>&nbsp;Publicidad</h3></div>
         <div class="navbar__container--main">
             <div class="mobil__main">
