@@ -55,8 +55,7 @@
 .container__mision--img {
   display: flex;
   align-items: center;
-  padding: 30px;
-  margin: 20px 0; /* Reduce el margen superior e inferior */
+  padding: 20px; /* Reduce el margen superior e inferior */
 }
 
 .container__mision--text h2 {
