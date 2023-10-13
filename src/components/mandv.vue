@@ -1,7 +1,7 @@
 <template>
         <div class="container__mision">
                     <div class="container__mision--text">  
-                        <h2>Mision</h2>
+                        <h2>Misión</h2>
                         <p>
                         Nuestra misión es simple pero poderosa: colaborarte para alcanzar tus objetivos digitales con éxito. Creemos que cada cliente es único y, por lo tanto, cada solución que ofrecemos es personalizada y adaptada a tus necesidades específicas. Nos esforzamos por ser tu socio de confianza en el espacio digital, ofreciendo servicios que te permitan destacar y crecer en línea..
                     </p>
@@ -62,9 +62,8 @@
         grid-template-columns: 1fr;
     }
     .container__mision--text{
-        width: 90vw;
-        margin: 20px auto;
-        grid-row:2;
+         flex-direction: column;
+    height: auto;
     }
     .container__mision--img{
         width: 90vw;
