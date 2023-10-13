@@ -8,7 +8,7 @@
                 <h1>NUESTROS SERVICIOS</h1>
                 <div>
                     <p>
-                    En Uchiha publicidad, estamos comprometidos a llevar tu presencia en línea al siguiente nivel. Somos un equipo apasionado de expertos en marketing digital, diseño web y desarrollo de aplicaciones móviles, listos para transformar tu visión en realidad. </p>
+                    Estamos comprometidos a llevar tu presencia en línea al siguiente nivel. Somos un equipo apasionado de expertos en marketing digital, diseño web y desarrollo de aplicaciones móviles, listos para transformar tu visión en realidad. </p>
                 <ul>
                     <li>Marketing : Manejo de redes, Creación de contenido, Reels, Historias, Chats</li>
                     <li>Plataformas: Tiktok, Instagram, Facebook, WhatsApp, Paginas Web. Snapchat</li>
