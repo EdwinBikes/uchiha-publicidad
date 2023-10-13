@@ -51,7 +51,7 @@
     margin-top: 90px;
     width: 100%;
     height: 80vh;
-    font-size: 25px;
+    font-size: 18px;
 }
 .container__service{
     display: grid;
