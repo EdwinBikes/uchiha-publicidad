@@ -24,12 +24,11 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  height: 500px;
+  height: auto; /* Cambia la altura a "auto" para que se ajuste automáticamente */
 }
 
 .container__mision--text,
 .container__mision--img {
-  height: 500px;
   width: 45vw;
   background: linear-gradient(
     to bottom,
@@ -44,7 +43,7 @@
   display: flex;
   justify-content: center;
   flex-direction: column;
-  margin: 50px 0; /* Añade márgenes externos para separar del contenido superior e inferior */
+  margin: 20px 0; /* Reduce el margen superior e inferior */
 }
 
 .container__mision--text {
@@ -56,7 +55,7 @@
 .container__mision--img {
   display: flex;
   align-items: center;
-  margin: 50px 0; /* Añade márgenes externos para separar del contenedor padre */
+  margin: 20px 0; /* Reduce el margen superior e inferior */
 }
 
 .container__mision--text h2 {
@@ -70,8 +69,8 @@
 }
 
 .container__mision--img img {
-  height: 90%;
-  width: 90%;
+  max-height: 100%; /* Utiliza "max-height" en lugar de "height" para que se ajuste automáticamente */
+  max-width: 100%; /* Utiliza "max-width" en lugar de "width" para que se ajuste automáticamente */
   object-fit: contain;
 }
 
@@ -79,15 +78,13 @@
   .container__mision {
     display: grid;
     grid-template-columns: 1fr;
-    height: auto;
+    margin: 20px auto; /* Agrega margen para centrar en pantallas pequeñas */
   }
 
   .container__mision--img,
   .container__mision--text {
     width: 90vw;
-    height: auto;
     padding: 20px;
-    margin: 20px auto;
   }
 
   .container__mision--text p {
