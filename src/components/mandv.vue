@@ -56,9 +56,10 @@
 }
 
 .container__mision--text h2 {
-  width: 100%;
   text-align: center;
-  font-size: 40px;
+  width: 90%;
+  height: 90%;
+  font-size: 30px;
 }
 
 .container__mision--text p {
