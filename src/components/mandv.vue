@@ -49,13 +49,13 @@
 .container__mision--text {
   color: white;
   text-align: center;
-  padding: 20px; /* Añade espaciado interno para separar del contenedor padre */
+  padding: 50px; /* Añade espaciado interno para separar del contenedor padre */
 }
 
 .container__mision--img {
   display: flex;
   align-items: center;
-  margin: 20px; /* Añade márgenes externos para separar del contenedor padre */
+  margin: 50px 0; /* Añade márgenes externos para separar del contenedor padre */
 }
 
 .container__mision--text h2 {
@@ -64,6 +64,8 @@
 
 .container__mision--text p {
   font-size: 25px;
+  width: 70%; /* Ajusta el ancho del párrafo en pantallas grandes */
+  margin: 0 auto; /* Centra el párrafo horizontalmente */
 }
 
 .container__mision--img img {
