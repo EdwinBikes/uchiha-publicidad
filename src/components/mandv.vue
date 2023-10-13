@@ -44,18 +44,19 @@
   display: flex;
   justify-content: center;
   flex-direction: column;
+  margin: 20px 0; /* Añade márgenes externos para separar del contenido superior e inferior */
 }
 
 .container__mision--text {
   color: white;
   text-align: center;
-  padding: 50px; /* Añade espaciado interno para separar del contenedor padre */
+  padding: 20px; /* Añade espaciado interno para separar del contenedor padre */
 }
 
 .container__mision--img {
   display: flex;
   align-items: center;
-  margin: 50px 0; /* Añade márgenes externos para separar del contenedor padre */
+  margin: 20px 0; /* Añade márgenes externos para separar del contenido superior e inferior */
 }
 
 .container__mision--text h2 {
@@ -64,7 +65,7 @@
 
 .container__mision--text p {
   font-size: 25px;
-  width: 70%; /* Ajusta el ancho del párrafo en pantallas grandes */
+  width: 70%;
   margin: 0 auto; /* Centra el párrafo horizontalmente */
 }
 
@@ -90,8 +91,15 @@
   }
 
   .container__mision--text p {
-    width: 90%; /* Ajusta el ancho del párrafo para que sea más ancho en pantallas pequeñas */
-    font-size: 20px; /* Ajusta el tamaño de fuente según sea necesario */
+    width: 90%;
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 851px) {
+  .container__mision--text,
+  .container__mision--img {
+    margin-bottom: 20px; /* Agrega un margen inferior para separar los contenedores en pantallas más grandes */
   }
 }
 </style>
