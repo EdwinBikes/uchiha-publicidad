@@ -4,10 +4,10 @@
         <div class="footer__container--message">
             <h3>CONTÁCTENOS</h3>
             <p>¿Quieres hacernos alguna pregunta? Ponte en
-                contacto con nosotros y te responderemos en el
-                menor tiempo posible. A tu disposición ponemos
+                contacto con nosotros y te responderemos en él
+                menor tiempo posible. A tu disposición, ponemos
                 a todo un equipo de profesionales dispuestos a
-                aportar soluciones a tus problemas
+                aportar soluciones a tus problemas.
             </p>
         </div>
         <div class="footer__container--network">
