@@ -69,8 +69,8 @@
 }
 
 .container__mision--img img {
-  max-height: 100%; /* Utiliza "max-height" en lugar de "height" para que se ajuste automáticamente */
-  max-width: 100%; /* Utiliza "max-width" en lugar de "width" para que se ajuste automáticamente */
+  max-height: 90%; /* Utiliza "max-height" en lugar de "height" para que se ajuste automáticamente */
+  max-width: 90%; /* Utiliza "max-width" en lugar de "width" para que se ajuste automáticamente */
   object-fit: contain;
 }
 
@@ -81,7 +81,14 @@
     margin: 20px auto; /* Agrega margen para centrar en pantallas pequeñas */
   }
 
-  .container__mision--img,
+  .container__mision--img {
+    width: 90vw;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 20px auto;
+  }
+
   .container__mision--text {
     width: 90vw;
     padding: 20px;
