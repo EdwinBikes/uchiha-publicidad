@@ -47,7 +47,7 @@
 
 .container__mision--text {
   color: white;
-  flex-direction: column;
+ 
   margin: 30px; /* Agrega márgenes internos para separar del contenedor padre */
 }
 
