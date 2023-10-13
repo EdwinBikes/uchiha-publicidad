@@ -68,10 +68,11 @@
   margin: 0 auto; /* Centra el párrafo horizontalmente */
 }
 
-.container__mision--img {
-    padding-top: 30px;
-    padding-bottom: 30px;
-  }
+.container__mision--img img {
+  max-height: 100%; /* Utiliza "max-height" en lugar de "height" para que se ajuste automáticamente */
+  max-width: 100%; /* Utiliza "max-width" en lugar de "width" para que se ajuste automáticamente */
+  object-fit: contain;
+}
 
 @media (max-width: 850px) {
   .container__mision {
