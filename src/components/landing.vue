@@ -58,7 +58,7 @@
 }
 
 .container__landing--title__contain p {
-  width: 100%; /* Ajusta el ancho del párrafo al 100% */
+  width: 90%; /* Ajusta el ancho del párrafo al 100% */
   text-align: justify;
   padding: 0;
   margin: 0;
