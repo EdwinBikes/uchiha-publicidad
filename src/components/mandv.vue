@@ -69,8 +69,8 @@
 }
 
 .container__mision--img img {
-  max-height: 90%; /* Utiliza "max-height" en lugar de "height" para que se ajuste automáticamente */
-  max-width: 90%; /* Utiliza "max-width" en lugar de "width" para que se ajuste automáticamente */
+  height: 90%;
+  width: 90%;
   object-fit: contain;
 }
 
