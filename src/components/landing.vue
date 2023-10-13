@@ -46,6 +46,7 @@
   color: white;
   font-size: 20px;
   max-width: 80%; /* Ajusta el ancho máximo del contenedor */
+  margin: 0 auto; /* Centra el contenedor horizontalmente */
 }
 
 .container__landing--title__contain h2 {
@@ -65,7 +66,7 @@
 
 @media (max-width: 850px) {
   .container__landing--title__contain {
-    max-width: 90%; 
+    max-width: 95%; /* Ajusta el ancho máximo del contenedor en pantallas pequeñas */
   }
   .container__body {
     height: 1650px;
@@ -84,7 +85,7 @@
 
 @media (max-width: 850px) and (orientation: landscape) {
   .container__landing--title__contain {
-    max-width: 90%;
+    max-width: 95%; /* Ajusta el ancho máximo del contenedor en pantallas pequeñas en modo apaisado */
   }
   .container__landing--text {
     grid-template-columns: 1fr;
