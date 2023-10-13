@@ -9,11 +9,37 @@
                 <div>
                     <p>
                     Estamos comprometidos a llevar tu presencia en línea al siguiente nivel. Somos un equipo apasionado de expertos en marketing digital, diseño web y desarrollo de aplicaciones móviles, listos para transformar tu visión en realidad. </p>
-                <ul>
-                    <li>Marketing : Manejo de redes, Creación de contenido, Reels, Historias, Chats</li>
-                    <li>Plataformas: Tiktok, Instagram, Facebook, WhatsApp, Paginas Web. Snapchat</li>
-                    <li>Creación: Fotos, Videos, Videos con Drone</li>
+                <ul data-v-2a8b65de="">
+                    <li data-v-2a8b65de="">
+                        Marketing:
+                        <ul>
+                            <li>Manejo de redes</li>
+                            <li>Creación de contenido,</li>
+                            <li>Reels,</li>
+                            <li>Historias</li>
+                        </ul>
+                    </li>
+                    <li data-v-2a8b65de="">
+                        Plataformas:
+                        <ul>
+                            <li>Tiktok</li>
+                            <li>Instagram</li>
+                            <li>Facebook</li>
+                            <li>WhatsApp</li>
+                            <li>Paginas Web</li>
+                            <li>Snapchat</li>
+                        </ul>
+                    </li>
+                    <li data-v-2a8b65de="">
+                        Creación:
+                        <ul>
+                            <li>Fotos</li>
+                            <li>Videos</li>
+                            <li>Videos con Drone</li>
+                        </ul>
+                    </li>
                 </ul>
+
                 </div>
                 
             </div>
