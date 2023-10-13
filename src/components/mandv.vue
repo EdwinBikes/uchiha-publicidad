@@ -43,29 +43,26 @@
   border-radius: 6px;
   display: flex;
   justify-content: center;
+  flex-direction: column;
 }
 
 .container__mision--text {
   color: white;
- 
-  margin: 30px; /* Agrega márgenes internos para separar del contenedor padre */
+  text-align: center;
+  padding: 20px; /* Añade espaciado interno para separar del contenedor padre */
 }
 
 .container__mision--img {
   display: flex;
   align-items: center;
-  margin: 30px; /* Agrega márgenes internos para separar del contenedor padre */
+  margin: 20px; /* Añade márgenes externos para separar del contenedor padre */
 }
 
 .container__mision--text h2 {
-  text-align: center;
-  width: 80%;
   font-size: 30px;
 }
 
 .container__mision--text p {
-  width: 50%;
-  text-align: center;
   font-size: 25px;
 }
 
@@ -77,29 +74,22 @@
 
 @media (max-width: 850px) {
   .container__mision {
-    width: 90vw;
+    display: grid;
+    grid-template-columns: 1fr;
     height: auto;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    margin: 20px auto;
   }
 
-  .container__mision--img {
-    width: 90vw;
-    height: auto;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    margin: 20px auto;
-  }
-
+  .container__mision--img,
   .container__mision--text {
     width: 90vw;
-    font-size: 118px;
-    margin: 30px; /* Agrega márgenes internos para separar del contenedor padre */
+    height: auto;
+    padding: 20px;
+    margin: 20px auto;
   }
 
-  .container__mision--text h2 {
-    font-size: 30px;
+  .container__mision--text p {
+    width: 90%; /* Ajusta el ancho del párrafo para que sea más ancho en pantallas pequeñas */
+    font-size: 20px; /* Ajusta el tamaño de fuente según sea necesario */
   }
 }
 </style>
