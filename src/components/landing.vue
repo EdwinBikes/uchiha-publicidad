@@ -5,7 +5,7 @@
                 <div class="container__landing--title__contain">
                     <h2>Uchiha publicidad</h2>
                     <p>
-                        En Uchiha Publicidad, estamos comprometidos a transformar tu visión en realidad. Somos una agencia de soluciones digitales que se especializa en impulsar tu presencia en línea y ofrecer servicios de desarrollo web y aplicaciones móviles de alta calidad. Nuestro enfoque es simple: tu éxito es nuestro éxito. Trabajamos de cerca contigo para alcanzar tus metas y objetivos en el mundo digital.
+                        Estamos comprometidos a transformar tu visión en realidad. Somos una agencia de soluciones digitales que se especializa en impulsar tu presencia en línea y ofrecer servicios de desarrollo web y aplicaciones móviles de alta calidad. Nuestro enfoque es simple: tu éxito es nuestro éxito. Trabajamos de cerca contigo para alcanzar tus metas y objetivos en el mundo digital.
                     </p>
                 </div>
                 
