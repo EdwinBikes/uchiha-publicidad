@@ -68,11 +68,10 @@
   margin: 0 auto; /* Centra el párrafo horizontalmente */
 }
 
-.container__mision--img img {
-  height: 90%;
-  width: 90%;
-  object-fit: contain;
-}
+.container__mision--img {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
 
 @media (max-width: 850px) {
   .container__mision {
