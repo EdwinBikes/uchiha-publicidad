@@ -55,6 +55,7 @@
 .container__mision--img {
   display: flex;
   align-items: center;
+  padding: 30px;
   margin: 20px 0; /* Reduce el margen superior e inferior */
 }
 
